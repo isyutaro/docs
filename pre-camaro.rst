@@ -1,18 +1,23 @@
-Introducción
-------------
+Preproduccion CAMARO
+====================
+
 ``pre-camaro`` es servidor staging para GM.
 
 Caracteristicas
 ---------------
 
-* CPU : 1GHz
++------------+------------+-----------+------------+-----------+
+|            |    RAM     |    HDD    |    SO      |  kernel   |
++============+============+===========+============+===========+
+| Tags       |    2GB     |   100GB   | SLES 11.2  |  x86_64   |
++------------+------------+-----------+------------+-----------+
 
 .. warning::
 
     No tenemos Warnings.
 
-Configutraciones
-----------------
+Configuraciones
+---------------
 
 Configuraciones que se han realizado en el servidor.
 
