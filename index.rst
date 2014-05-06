@@ -9,7 +9,7 @@ Documentacion de servidores
 Contenido:
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 3
 
    pre-camaro
    prod-camaro
